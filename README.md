@@ -1,4 +1,4 @@
-# combo-lists-2026
+# One-Stop-2026
 This will be your one stop location for all my playlists as well as others requesting to be added. 
 
 ## Updates
