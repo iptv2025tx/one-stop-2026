@@ -9,7 +9,7 @@ https://143.244.60.30/AMC_NETWORK/index.m3u8
 https://143.244.60.30/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Documentary",Animal Planet (MOJ)
 https://143.244.60.30/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Local - Other",Antenna TV (MOJ)
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Entertainment",Antenna TV (MOJ)
 https://143.244.60.30/Antenna_TV/index.m3u8
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/aspire-tv-us.png" group-title="Entertainment",Aspire (MOJ)
 https://143.244.60.30/Aspire/index.m3u8
@@ -187,7 +187,7 @@ https://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 https://143.244.60.30/DIY/index.m3u8
 #EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Gospel (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/music-choice-us.png" group-title="Music",MC: Gospel (MOJ)
 https://143.244.60.30/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV (MOJ) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/me-tv-us.png" group-title="Local - Other",meTV (MOJ)
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV (MOJ) " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/me-tv-us.png" group-title="Entertainment",meTV (MOJ)
 https://143.244.60.30/ME_TV/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/mgm-plus-us.png" group-title="Movies",MGM+ (MOJ)
 http://143.244.60.30/EPIX/index.m3u8
@@ -365,3 +365,63 @@ https://143.244.60.30/AL_MOBILE_ABC/index.m3u8
 https://143.244.60.30/AL_MOBILE_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WALA-DT.us_locals1" tvg-name="AL | Mobile | FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/WALA_Fox_10_logo_2017.svg/960px-WALA_Fox_10_logo_2017.svg.png" group-title="Local - FOX",AL | Mobile | FOX
 https://143.244.60.30/AL_MOBILE_FOX/index.m3u8
+#EXTINF:-1 tvg-name="AZ | Phoenix | ABC" group-title="Local - ABC",AZ | Phoenix | ABC
+https://143.244.60.30/AZ_PHOENIX_ABC/index.m3u8
+#EXTINF:-1 tvg-name="AZ | Phoenix | FOX" group-title="Local - FOX",AZ | Phoenix | FOX
+https://143.244.60.30/AZ_PHOENIX_FOX/index.m3u8
+#EXTINF:-1 tvg-name="CA | Bakersfield | CBS" group-title="Local - CBS",CA | Bakersfield | CBS
+https://143.244.60.30/CA_BAKERSFIELD_CBS/index.m3u8
+#EXTINF:-1 tvg-name="CA | Fresno | CBS" group-title="Local - CBS",CA | Fresno | CBS
+https://143.244.60.30/CA_FRESNO_CBS/index.m3u8
+#EXTINF:-1 tvg-name="CA | Fresno | NBC" group-title="Local - NBC",CA | Fresno | NBC
+https://143.244.60.30/CA_FRESNO_NBC/index.m3u8
+#EXTINF:-1 tvg-name="CA | Los Angeles | ABC" group-title="Local - ABC",CA | Los Angeles | ABC
+https://143.244.60.30/CA_LOS_ANGELES_ABC/index.m3u8
+#EXTINF:-1 tvg-name="CA | Los Angeles | CBS" group-title="Local - CBS",CA | Los Angeles | CBS
+https://143.244.60.30/CA_Los_Angeles_CBS/index.m3u8
+#EXTINF:-1 tvg-name="CA | Los Angeles | NBC" group-title="Local - NBC",CA | Los Angeles | NBC
+https://143.244.60.30/CA_Los_Angeles_NBC/index.m3u8
+#EXTINF:-1 tvg-name="CA | Monterey | CBS" group-title="Local - CBS",CA | Monterey | CBS
+https://143.244.60.30/CA_MONTEREY_CBS/index.m3u8
+#EXTINF:-1 tvg-name="CA | Sacramento | ABC" group-title="Local - ABC",CA | Sacramento | ABC
+https://143.244.60.30/CA_SACRAMENTO_ABC/index.m3u8
+#EXTINF:-1 tvg-name="CA | Sacramento | FOX" group-title="Local - FOX",CA | Sacramento | FOX
+https://143.244.60.30/CA_SACRAMENTO_FOX/index.m3u8
+#EXTINF:-1 tvg-name="CA | Sacramento | NBC" group-title="Local - NBC",CA | Sacramento | NBC
+https://143.244.60.30/CA_SACRAMENTO_NBC/index.m3u8
+#EXTINF:-1 tvg-name="CA | San Diego | ABC" group-title="Local - ABC",CA | San Diego | ABC
+https://143.244.60.30/CA_SAN_DIEGO_ABC/mpegts
+#EXTINF:-1 tvg-name="CA | San Diego | CBS" group-title="Local - CBS",CA | San Diego | CBS
+https://143.244.60.30/CA_SAN_DIEGO_CBS/mpegts
+#EXTINF:-1 tvg-name="CA | San Francisco | CBS" group-title="Local - CBS",CA | San Francisco | CBS
+https://143.244.60.30/CA_SAN_FRANCISCO_CBS/index.m3u8
+#EXTINF:-1 tvg-name="CO | Denver | CBS" group-title="Local - CBS",CO | Denver | CBS
+https://143.244.60.30/CO_DENVER_CBS/index.m3u8
+#EXTINF:-1 tvg-name="CO | Denver | FOX" group-title="Local - FOX",CO | Denver | FOX
+https://143.244.60.30/CO_Denver_FOX/index.m3u8
+#EXTINF:-1 tvg-name="CO | Denver | NBC" group-title="Local - NBC",CO | Denver | NBC
+https://143.244.60.30/CO_Denver_NBC/index.m3u8
+#EXTINF:-1 tvg-name="DC | Washington | ABC" group-title="Local - ABC",DC | Washington | ABC
+https://143.244.60.30/DC_WASHINGTON_ABC/index.m3u8
+#EXTINF:-1 tvg-name="DC | Washington | CBS" group-title="Local - CBS",DC | Washington | CBS
+https://143.244.60.30/DC_WASHINGTON_CBS/index.m3u8
+#EXTINF:-1 tvg-name="DC | Washington | FOX" group-title="Local - FOX",DC | Washington | FOX
+https://143.244.60.30/DC_WASHINGTON_FOX/index.m3u8
+#EXTINF:-1 tvg-name="DC | Washington | NBC" group-title="Local - NBC",DC | Washington | NBC
+https://143.244.60.30/DC_WASHINGTON_NBC/index.m3u8
+#EXTINF:-1 tvg-name="FL | Fort Myers | CBS" group-title="Local - CBS",FL | Fort Myers | CBS
+https://143.244.60.30/FL_FORT_MYERS_CBS/index.m3u8
+#EXTINF:-1 tvg-name="FL | Fort Myers | NBC" group-title="Local - NBC",FL | Fort Myers | NBC
+https://143.244.60.30/FL_FORT_MYERS_NBC/index.m3u8
+#EXTINF:-1 tvg-name="FL | Gainesville | ABC" group-title="Local - ABC",FL | Gainesville | ABC
+https://143.244.60.30/FL_GAINESVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-name="FL | Gainesville | NBC" group-title="Local - NBC",FL | Gainesville | NBC
+https://143.244.60.30/FL_Gainesville_NBC/index.m3u8
+#EXTINF:-1 tvg-name="FL | Jacksonsville | ABC" group-title="Local - ABC",FL | Jacksonsville | ABC
+https://143.244.60.30/FL_JACKSONVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-name="FL | Jacksonsville | CBS" group-title="Local - CBS",FL | Jacksonsville | CBS
+https://143.244.60.30/FL_JACKSONVILLE_CBS/index.m3u8
+#EXTINF:-1 tvg-name="FL | Jacksonsville | FOX" group-title="Local - FOX",FL | Jacksonsville | FOX
+https://143.244.60.30/FL_Jacksonville_FOX/index.m3u8
+#EXTINF:-1 tvg-name="FL | Jacksonsville | NBC" group-title="Local - NBC",FL | Jacksonsville | NBC
+https://143.244.60.30/FL_Jacksonville_NBC/index.m3u8
