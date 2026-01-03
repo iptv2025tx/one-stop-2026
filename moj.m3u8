@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Entertainment",A&E East (MOJ)
 https://143.244.60.30/ANE/index.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network by ESPN (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/acc-network-us.png" group-title="Sports",ACC Network (MOJ)
@@ -65,7 +65,7 @@ http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 https://143.244.60.30/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="COMEDY.tv (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/comedy-tv-us.png" group-title="Entertainment",COMEDY.tv (MOJ)
 https://143.244.60.30/Comedy_TV/index.m3u8
-#EXTINF:-1 tvg-id="Comet.TV.us2" tvg-name="Comet TV (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/comet-us.png" group-title="Entertainment",Comet TV (MOJ)
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet TV (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/comet-us.png" group-title="Entertainment",Comet TV (MOJ)
 https://143.244.60.30/COMET/index.m3u8
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cooking-channel-us.png" group-title="Entertainment",Cooking Channel (MOJ)
 https://143.244.60.30/COOKING_CHANNEL/index.m3u8
@@ -103,8 +103,6 @@ http://143.244.60.30/ESPN_2/index.m3u8
 https://143.244.60.30/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Sports",FanDuel TV (MOJ)
 https://143.244.60.30/TVG/index.m3u8
-#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="FL | Tampa | ABC WFTS (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",FL | Tampa | ABC WFTS (MOJ)
-https://143.244.60.30/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/food-network-us.png" group-title="Entertainment",Food Network East (MOJ)
 https://143.244.60.30/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="FOX Business (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-business-us.png" group-title="News",FOX Business (MOJ)
@@ -125,7 +123,7 @@ http://143.244.60.30/FUSE/index.m3u8
 http://143.244.60.30/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fxm-movie-channel-us.png" group-title="Movies",FX Movie Channel (MOJ)
 http://143.244.60.30/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fxx-us.png" group-title="Entertainment",FXX (MOJ)
+#EXTINF:-1 tvg-id="FXX.Canada.ca2" tvg-name="FXX Canada" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fxx-us.png" group-title="Entertainment",FXX Canada
 http://143.244.60.30/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fyi-us.png" group-title="Entertainment",FYI (MOJ)
 http://143.244.60.30/FYI/index.m3u8
@@ -165,7 +163,7 @@ https://143.244.60.30/INSP/index.m3u8
 https://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/ion-television-us.png" group-title="Entertainment",ION (MOJ)
 http://143.244.60.30/ION_TV/index.m3u8
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="Entertainment",ION Plus (MOJ)
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION (MOJ bkup)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/ion-television-us.png" group-title="Entertainment",ION (MOJ bkup)
 https://143.244.60.30/ION_Plus/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/lifetime-us.png" group-title="Entertainment",Lifetime (MOJ)
 https://143.244.60.30/LIFETIME/index.m3u8
@@ -303,7 +301,7 @@ https://143.244.60.30/SYFY/index.m3u8
 https://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/tennis-channel-us.png" group-title="Sports",Tennis Channel (MOJ)
 https://143.244.60.30/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cowboy-channel-us.png" group-title="Entertainment",The Cowboy Channel (MOJ)
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cowboy-channel-us.png" group-title="Z - OFFLINE",The Cowboy Channel (MOJ)
 https://143.244.60.30/Cowboy_Channel/index.m3u8
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-name="TLC (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/tlc-us.png" group-title="Entertainment",TLC (MOJ)
 https://143.244.60.30/TLC/index.m3u8
@@ -311,21 +309,21 @@ https://143.244.60.30/TLC/index.m3u8
 https://143.244.60.30/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-1-hd-ca.png" group-title="Z - OFFLINE",TSN 1 (MOJ)
 https://143.244.60.30/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN.2ca2" tvg-name="TSN 2 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-2-hd-ca.png" group-title="Sports",TSN 2 (MOJ)
+#EXTINF:-1 tvg-id="TSN.2ca2" tvg-name="TSN 2 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-2-hd-ca.png" group-title="Z - OFFLINE",TSN 2 (MOJ)
 https://143.244.60.30/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN 3 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-3-hd-ca.png" group-title="Sports",TSN 3 (MOJ)
+#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN 3 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-3-hd-ca.png" group-title="Z - OFFLINE",TSN 3 (MOJ)
 https://143.244.60.30/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN 4 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-4-hd-ca.png" group-title="Z - OFFLINE",TSN 4 (MOJ)
 https://143.244.60.30/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN 5 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-5-hd-ca.png" group-title="Sports",TSN 5 (MOJ)
+#EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN 5 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/tsn-5-hd-ca.png" group-title="Z - OFFLINE",TSN 5 (MOJ)
 https://143.244.60.30/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/tcm-us.png" group-title="Movies",Turner Classic Movies (MOJ)
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/tcm-us.png" group-title="Z - OFFLINE",Turner Classic Movies (MOJ)
 https://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/tv-land-us.png" group-title="Entertainment",TV Land (MOJ)
 https://143.244.60.30/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One (MOJ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV-One-logo-2016.png" group-title="Entertainment",TV One (MOJ)
 https://143.244.60.30/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="WVGN-LD.us_locals1" tvg-name="Virgin Islands | NBC WVGN-LD" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",Virgin Islands | NBC WVGN-LD
+#EXTINF:-1 tvg-id="WVGN-LD.us_locals1" tvg-name="Virgin Islands | NBC WVGN-LD" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Z - OFFLINE",Virgin Islands | NBC WVGN-LD
 https://143.244.60.30/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="Women's Ent. East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/we-tv-us.png" group-title="Entertainment",Women's Ent. East (MOJ)
 https://143.244.60.30/WE_TV/index.m3u8
@@ -339,7 +337,7 @@ https://143.244.60.30/AL_BIRMINGHAM_ABC/index.m3u8
 https://143.244.60.30/AL_BIRMINGHAM_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WVTM-DT.us_locals1" tvg-name="AL | Birmingham | NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WVTM-TV_NBC_13_Birmingham%2C_Alabama_Logo.svg/960px-WVTM-TV_NBC_13_Birmingham%2C_Alabama_Logo.svg.png" group-title="Local - NBC",AL | Birmingham | NBC
 https://143.244.60.30/AL_Birmingham_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WHDN-DT.us_locals1" tvg-name="AL | Dothan | ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/WDHN_2024.webp" group-title="Local - ABC",AL | Dothan | ABC
+#EXTINF:-1 tvg-id="WDHN-DT.us_locals1" tvg-name="AL | Dothan | ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/WDHN_2024.webp" group-title="Local - ABC",AL | Dothan | ABC
 https://143.244.60.30/AL_DOTHAN_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WTVY-DT.us_locals1" tvg-name="AL | Dothan | CBS" tvg-logo="https://github.com/iptv2025tx/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/us-local/cbs-4-wtvy-us.png" group-title="Local - CBS",AL | Dothan | CBS
 https://143.244.60.30/AL_DOTHAN_CBS/index.m3u8
@@ -357,9 +355,9 @@ https://143.244.60.30/AL_MOBILE_FOX/index.m3u8
 https://143.244.60.30/AZ_PHOENIX_ABC/index.m3u8
 #EXTINF:-1 tvg-id="KSAZ-DT.us_locals1" tvg-name="AZ | Phoenix | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",AZ | Phoenix | FOX
 https://143.244.60.30/AZ_PHOENIX_FOX/index.m3u8
-#EXTINF:-1 tvg-id="KBAK-DT.us_locals1" tvg-name="CA | Bakersfield | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",CA | Bakersfield | CBS
+#EXTINF:-1 tvg-id="KBAK-DT.us_locals1" tvg-name="CA | Bakersfield | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",CA | Bakersfield | CBS
 https://143.244.60.30/CA_BAKERSFIELD_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" tvg-name="CA | Fresno | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",CA | Fresno | CBS
+#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" tvg-name="CA | Fresno | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",CA | Fresno | CBS
 https://143.244.60.30/CA_FRESNO_CBS/index.m3u8
 #EXTINF:-1 tvg-id="KSEE-DT.us_locals1" tvg-name="CA | Fresno | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",CA | Fresno | NBC
 https://143.244.60.30/CA_FRESNO_NBC/index.m3u8
@@ -371,11 +369,11 @@ https://143.244.60.30/CA_Los_Angeles_CBS/index.m3u8
 https://143.244.60.30/CA_Los_Angeles_NBC/index.m3u8
 #EXTINF:-1 tvg-id="KION-DT.us_locals1" tvg-name="CA | Monterey | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",CA | Monterey | CBS
 https://143.244.60.30/CA_MONTEREY_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KXTV-DT.us_locals1" tvg-name="CA | Sacramento | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",CA | Sacramento | ABC
+#EXTINF:-1 tvg-id="KXTV-DT.us_locals1" tvg-name="CA | Sacramento | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Z - OFFLINE",CA | Sacramento | ABC
 https://143.244.60.30/CA_SACRAMENTO_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KTXL-DT.us_locals1" tvg-name="CA | Sacramento | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",CA | Sacramento | FOX
+#EXTINF:-1 tvg-id="KTXL-DT.us_locals1" tvg-name="CA | Sacramento | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Z - OFFLINE",CA | Sacramento | FOX
 https://143.244.60.30/CA_SACRAMENTO_FOX/index.m3u8
-#EXTINF:-1 tvg-id="KCRA-DT.us_locals1" tvg-name="CA | Sacramento | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",CA | Sacramento | NBC
+#EXTINF:-1 tvg-id="KCRA-DT.us_locals1" tvg-name="CA | Sacramento | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Z - OFFLINE",CA | Sacramento | NBC
 https://143.244.60.30/CA_SACRAMENTO_NBC/index.m3u8
 #EXTINF:-1 tvg-id="KGTV-DT.us_locals1" tvg-name="CA | San Diego | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",CA | San Diego | ABC
 https://143.244.60.30/CA_SAN_DIEGO_ABC/mpegts
@@ -457,11 +455,11 @@ https://143.244.60.30/GA_AUGUSTA_FOX/index.m3u8
 https://143.244.60.30/GA_MACON_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WMGT-DT.us_locals1" tvg-name="GA | Macon | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",GA | Macon | NBC
 https://143.244.60.30/GA_MACON_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WTOC-DT.us_locals1" tvg-name="GA | Savannah | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",GA | Savannah | CBS
+#EXTINF:-1 tvg-id="WTOC-DT.us_locals1" tvg-name="GA | Savannah | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",GA | Savannah | CBS
 https://143.244.60.30/GA_SAVANNAH_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KHON-DT.us_locals1" tvg-name="HI | Honolulu | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",HI | Honolulu | FOX
+#EXTINF:-1 tvg-id="KHON-DT.us_locals1" tvg-name="HI | Honolulu | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Z - OFFLINE",HI | Honolulu | FOX
 https://143.244.60.30/HI_HONOLULU_FOX/mpegts
-#EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",IA | Cedar Rapids | CBS
+#EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",IA | Cedar Rapids | CBS
 https://143.244.60.30/IA_CEDAR_RAPIDS_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",IL | Chicago | ABC
 https://143.244.60.30/IL_CHICAGO_ABC/index.m3u8
@@ -473,7 +471,7 @@ https://143.244.60.30/WGN/index.m3u8
 https://143.244.60.30/IL_Chicago_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="IL | Chicago | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",IL | Chicago | NBC
 https://143.244.60.30/IL_Chicago_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WFFT-DT.us_locals1" tvg-name="IN | Fort Wayne | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",IN | Fort Wayne | FOX
+#EXTINF:-1 tvg-id="WFFT-DT.us_locals1" tvg-name="IN | Fort Wayne | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Z - OFFLINE",IN | Fort Wayne | FOX
 https://143.244.60.30/IN_Fort_Wayne_FOX/mpegts
 #EXTINF:-1 tvg-id="WPTA-DT2.us_locals1" tvg-name="IN | Fort Wayne | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",IN | Fort Wayne | NBC
 https://143.244.60.30/IN_Fort_Wayne_NBC/index.m3u8
@@ -481,7 +479,7 @@ https://143.244.60.30/IN_Fort_Wayne_NBC/index.m3u8
 https://143.244.60.30/IN_Indianapolis_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WTHR-DT.us_locals1" tvg-name="IN | Indianapolis | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",IN | Indianapolis | NBC
 https://143.244.60.30/IN_Indianapolis_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WSBT-DT.us_locals1" tvg-name="IN | South Bend | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",IN | South Bend | CBS
+#EXTINF:-1 tvg-id="WSBT-DT.us_locals1" tvg-name="IN | South Bend | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",IN | South Bend | CBS
 https://143.244.60.30/IN_SOUTH_BEND_CBS/mpegts
 #EXTINF:-1 tvg-id="WKYT-DT.us_locals1" tvg-name="KY | Lexington | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",KY | Lexington | CBS
 https://143.244.60.30/KY_Lexington_CBS/mpegts
@@ -531,7 +529,7 @@ https://143.244.60.30/MO_KANSAS_CITY_ABC/index.m3u8
 https://143.244.60.30/MO_KANSAS_CITY_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WDAF-DT.us_locals1" tvg-name="MO | Kansas City | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",MO | Kansas City | FOX
 https://143.244.60.30/MO_KANSAS_CITY_FOX/index.m3u8
-#EXTINF:-1 tvg-id="KSHB-DT.us_locals1" tvg-name="MO | Kansas City | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",MO | Kansas City | NBC
+#EXTINF:-1 tvg-id="KSHB-DT.us_locals1" tvg-name="MO | Kansas City | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Z - OFFLINE",MO | Kansas City | NBC
 https://143.244.60.30/MO_KANSAS_CITY_NBC/index.m3u8
 #EXTINF:-1 tvg-id="KYTV-DT.us_locals1" tvg-name="MO | Springfield | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",MO | Springfield | NBC
 https://143.244.60.30/MA_SPRINGFIELD_NBC/index.m3u8
@@ -571,15 +569,15 @@ https://143.244.60.30/NV_LAS_VEGAS_FOX/index.m3u8
 https://143.244.60.30/NV_LAS_VEGAS_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WTEN-DT.us_locals1" tvg-name="NY | Albany | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",NY | Albany | ABC
 https://143.244.60.30/NY_ALBANY_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WXXA-DT.us_locals1" tvg-name="NY | Albany | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",NY | Albany | FOX
+#EXTINF:-1 tvg-id="WXXA-DT.us_locals1" tvg-name="NY | Albany | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Z - OFFLINE",NY | Albany | FOX
 https://143.244.60.30/NY_ALBANY_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WKBW-DT.us_locals1" tvg-name="NY | Buffalo | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",NY | Buffalo | ABC
 https://143.244.60.30/NY_BUFFALO_ABC/mpegts
-#EXTINF:-1 tvg-id="WIVB-DT.us_locals1" tvg-name="NY | Buffalo | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",NY | Buffalo | CBS
+#EXTINF:-1 tvg-id="WIVB-DT.us_locals1" tvg-name="NY | Buffalo | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",NY | Buffalo | CBS
 https://143.244.60.30/NY_BUFFALO_CBS/mpegts
-#EXTINF:-1 tvg-id="WNLO-DT.us_locals1" tvg-name="NY | Buffalo | CW" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cw-us.png" group-title="Local - CW/MNT",NY | Buffalo | CW
+#EXTINF:-1 tvg-id="WNLO-DT.us_locals1" tvg-name="NY | Buffalo | CW" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cw-us.png" group-title="Z - OFFLINE",NY | Buffalo | CW
 https://143.244.60.30/NY_BUFFALO_CW/mpegts
-#EXTINF:-1 tvg-id="WUTV-DT.us_locals1" tvg-name="NY | Buffalo | FOX " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",NY | Buffalo | FOX
+#EXTINF:-1 tvg-id="WUTV-DT.us_locals1" tvg-name="NY | Buffalo | FOX " tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Z - OFFLINE",NY | Buffalo | FOX
 https://143.244.60.30/NY_BUFFALO_FOX/mpegts
 #EXTINF:-1 tvg-id="WGRZ-DT.us_locals1" tvg-name="NY | Buffalo | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",NY | Buffalo | NBC
 https://143.244.60.30/NY_BUFFALO_NBC/mpegts
@@ -589,9 +587,9 @@ https://143.244.60.30/NY_New_York_FOX/index.m3u8
 https://143.244.60.30/OH_CLEVELAND_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WHIO-DT.us_locals1" tvg-name="OH | Dayton | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",OH | Dayton | CBS
 https://143.244.60.30/OH_DAYTON_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KTUL-DT.us_locals1" tvg-name="OK | Tulsa | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",OK | Tulsa | ABC
+#EXTINF:-1 tvg-id="KTUL-DT.us_locals1" tvg-name="OK | Tulsa | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Z - OFFLINE",OK | Tulsa | ABC
 https://143.244.60.30/OK_TULSA_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KATU-DT.us_locals1" tvg-name="OR | Portland | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",OR | Portland | ABC
+#EXTINF:-1 tvg-id="KATU-DT.us_locals1" tvg-name="OR | Portland | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Z - OFFLINE",OR | Portland | ABC
 https://143.244.60.30/OR_PORTLAND_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WPVI-DT.us_locals1" tvg-name="PA | Philadelphia | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",PA | Philadelphia | ABC
 https://143.244.60.30/PA_PHILADELPHIA_ABC/index.m3u8
@@ -607,11 +605,11 @@ https://143.244.60.30/PA_PITTSBURGH_ABC/index.m3u8
 https://143.244.60.30/PA_Pittsburgh_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WPXI-DT.us_locals1" tvg-name="PA | Pittsburgh | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",PA | Pittsburgh | NBC
 https://143.244.60.30/PA_Pittsburgh_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="TN | Chattanooga | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",TN | Chattanooga | CBS
+#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="TN | Chattanooga | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",TN | Chattanooga | CBS
 https://143.244.60.30/TN_CHATTANOOGA_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WTVC-DT2.us_locals1" tvg-name="TN | Chattanooga | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",TN | Chattanooga | FOX
 https://143.244.60.30/TN_CHATTANOOGA_FOX/index.m3u8
-#EXTINF:-1 tvg-id="WRCB-DT.us_locals1" tvg-name="TN | Chattanooga | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",TN | Chattanooga | NBC
+#EXTINF:-1 tvg-id="WRCB-DT.us_locals1" tvg-name="TN | Chattanooga | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Z - OFFLINE",TN | Chattanooga | NBC
 https://143.244.60.30/TN_CHATTANOOGA_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WTNZ-DT.us_locals1" tvg-name="TN | Knoxville | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",TN | Knoxville | FOX
 https://143.244.60.30/TN_Knoxville_FOX/index.m3u8
@@ -653,13 +651,13 @@ https://143.244.60.30/TX_SAN_ANTONIO_ABC/index.m3u8
 https://143.244.60.30/TX_San_Antonio_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WOAI-DT.us_locals1" tvg-name="TX | San Antonio | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",TX | San Antonio | NBC
 https://143.244.60.30/TX_San_Antonio_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WWBT-DT.us_locals1" tvg-name="VA | Richmond | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Local - NBC",VA | Richmond | NBC
+#EXTINF:-1 tvg-id="WWBT-DT.us_locals1" tvg-name="VA | Richmond | NBC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/nbc-us.png" group-title="Z - OFFLINE",VA | Richmond | NBC
 https://143.244.60.30/VA_Richmond_NBC/mpegts
 #EXTINF:-1 tvg-id="WFXR-DT.us_locals1" tvg-name="VA | Roanoke | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",VA | Roanoke | FOX
 https://143.244.60.30/VA_Roanoke_FOX/mpegts
-#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" tvg-name="WA | Seattle | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Local - ABC",WA | Seattle | ABC
+#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" tvg-name="WA | Seattle | ABC" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/abc-logo-2013-garnet-us.png" group-title="Z - OFFLINE",WA | Seattle | ABC
 https://143.244.60.30/WA_SEATTLE_ABC/index.m3u8
-#EXTINF:-1 tvg-id="KIRO-DT.us_locals1" tvg-name="WA | Seattle | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Local - CBS",WA | Seattle | CBS
+#EXTINF:-1 tvg-id="KIRO-DT.us_locals1" tvg-name="WA | Seattle | CBS" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="Z - OFFLINE",WA | Seattle | CBS
 https://143.244.60.30/WA_SEATTLE_CBS/index.m3u8
 #EXTINF:-1 tvg-id="KCPQ-DT.us_locals1" tvg-name="WA | Seattle | FOX" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/fox-us.png" group-title="Local - FOX",WA | Seattle | FOX
 https://143.244.60.30/WA_SEATTLE_FOX/index.m3u8
