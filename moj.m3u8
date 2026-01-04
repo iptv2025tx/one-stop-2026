@@ -77,7 +77,7 @@ https://143.244.60.30/COZI_TV/index.m3u8
 https://143.244.60.30/CRAVE_1/index.m3u8
 #EXTINF:-1 tvg-id="Crave2.ca2" tvg-name="Crave 2 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/crave-2-ca.png" group-title="Movies",Crave 2 (MOJ)
 https://143.244.60.30/CRAVE_2/index.m3u8
-#EXTINF:-1 tvg-id="Crave3.ca2" tvg-name="Crave 3 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/crave-3-ca.png" group-title="Movies",Crave 3 (MOJ)
+#EXTINF:-1 tvg-id="Crave2.ca2" tvg-name="Crave 2 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/crave-3-ca.png" group-title="Movies",Crave 3 (MOJ)
 https://143.244.60.30/CRAVE_3/index.m3u8
 #EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="Crave 4 (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/canada/crave-4-ca.png" group-title="Movies",Crave 4 (MOJ)
 https://143.244.60.30/CRAVE_4/index.m3u8
