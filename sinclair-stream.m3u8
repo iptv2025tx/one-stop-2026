@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/500px-Roar_%282025%29.svg.png" group-title="USA",Roar
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/500px-Roar_%282025%29.svg.png" group-title="USA",Roar (D)
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1280px-Charge%21_Logo_2020.svg.png" group-title="USA",Charge
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1280px-Charge%21_Logo_2020.svg.png" group-title="USA",Charge (D)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Comet_logo.svg" group-title="USA",Comet
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet TV (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Comet_logo.svg" group-title="USA",Comet (D)
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1280px-The_Nest_2023.svg.png" group-title="USA",The Nest
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1280px-The_Nest_2023.svg.png" group-title="USA",The Nest (D)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
